@@ -44,7 +44,7 @@ This repository currently contains the **UI/UX design prototype** of NAaaS, deve
 ## Interface Preview
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/user-attachments/assets/b805a9c0-12b8-4fb0-89fa-5cf126fa043c" alt="Image" width="400" height="250">
-  <img src="https://github.com/user-attachments/assets/84bf370b-56f0-46dd-a306-0a085f3e0902" alt="Image" width="400" height="250">
+  <img src="https://github.com/user-attachments/assets/84bf370b-56f0-46dd-a306-0a085f3e0902" alt="Image" width="420" height="250">
 </div>
 
 **Disclaimer:** This is a **design-only** prototype. Functional implementation and live deployment are planned for future phases.
