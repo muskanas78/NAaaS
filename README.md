@@ -4,6 +4,11 @@ NAaaS is Pakistan's news analytics platform that offers interactive geo-temporal
 ## Project Stage
 This repository currently contains the **UI/UX design prototype** of NAaaS, developed using **Figma**. It lays the groundwork for a future full-stack news analytics platform and visually represents key interfaces, navigation flow, and data visualization components. The design was created in close collaboration with both the **front-end** and **back-end** teams to ensure seamless integration during development.
 
+## Demo
+https://drive.google.com/file/d/139Fyu5O504e9XJah8KG6_rRYcg69tjSj/view?usp=sharing
+
+
+
 ## Key Features
 ### Landing Page
 - Engaging overview of NAaaS with access to Sign In / Sign Up and product tour.
