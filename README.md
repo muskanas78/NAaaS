@@ -1,4 +1,4 @@
-# NAaaS — News Analytics as a Service
+# NAaaS – News Analytics as a Service
 NAaaS is Pakistan's news analytics platform that offers interactive geo-temporal insights, source-based filtering, aspect-based sentiment analysis, and AI-powered summaries through an intuitive UI/UX using *Figma*.
 
 ## Project Stage
